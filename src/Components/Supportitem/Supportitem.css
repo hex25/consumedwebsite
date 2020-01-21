@@ -1,0 +1,22 @@
+.support-item {
+    background-color: rgb(70, 58, 58);
+    display: inline-block;
+    padding-top: 7px;
+    margin: 10px;
+    width: 260px;
+    height: 346px;
+    border: solid 2px rgb(53, 53, 53);
+    border-radius: 5px;
+}
+
+.support-cover {
+    width: 230px;
+    height: 200px;
+}
+
+.support-title {
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    line-height: 1.5em;
+}

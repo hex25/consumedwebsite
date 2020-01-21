@@ -1,0 +1,22 @@
+.release-page-container {
+    width: 80vw;
+    padding-top: 100px;
+    margin: 0 auto;
+}
+
+#release-container {
+    margin: 35px;
+}
+
+#icons-container {
+    display: inline-block;
+    margin-left: 35px;
+}
+
+.icon-release-page {
+    width: 35px;
+    margin: 10px;
+}
+
+
+

@@ -1,0 +1,23 @@
+.merch-item {
+
+    background-color: rgb(70, 58, 58);
+    display: inline-block;
+    margin: 10px;
+    width: 246px;
+    height: 246px;
+    border: solid 2px rgb(53, 53, 53);
+    border-radius: 5px;
+}
+
+.merch-cover {
+    margin: 10px;
+    height: 190px;
+}
+
+.merch-item a {
+    display: block;
+    color: rgb(170, 169, 169);
+    margin: 10px 5px;
+    font-size: 0.7em;
+    text-align: right;
+}

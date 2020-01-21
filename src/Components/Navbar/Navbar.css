@@ -1,0 +1,30 @@
+.navbar {
+    background-color: rgb(110, 17, 17);
+    width: 100vw;
+    position: fixed;
+    z-index: 3;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 2px solid rgb(65, 12, 12);
+}
+
+.navbar img {
+    width: 160px;
+}
+
+
+.link {
+    margin-top: 19px;
+    font-size: 0.8em;
+    color: white;
+    text-decoration: none;
+}
+
+.link:hover {
+    border-bottom: 2px solid white;
+    cursor: pointer;
+}
+
+.consumed-logo {
+    margin: 11px 0 9px 0;
+}
