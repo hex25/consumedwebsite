@@ -9,7 +9,7 @@ class Footer extends React.Component {
         
         return (
             <footer id='footer'>
-                Consumed Music  &#169; 2019
+                Consumed Music  &#169; 2020
             
             </footer>
         )

@@ -2,7 +2,7 @@ import React from 'react';
 import '../Components/App/App.css';
 
 
-import { BrowserRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch, Redirect } from 'react-router-dom';
 
 import Homepage from '../Components/Homepage/Homepage';
 import Packslist from '../Components/Packslist/Packslist';

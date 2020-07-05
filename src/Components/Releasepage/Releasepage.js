@@ -7,7 +7,7 @@ import bpicon from '../Releaseitem/icons/bpiconlight.png';
 import scicon from '../Releaseitem/icons/sciconlight.png';
 import apicon from '../Releaseitem/icons/appleiconlight.png';
 import sficon from '../Releaseitem/icons/spotifyiconlight.png';
-import dzicon from '../Releaseitem/icons/deezericonlight.png';
+//import dzicon from '../Releaseitem/icons/deezericonlight.png';
 
 
 class Releasepage extends React.Component {
@@ -32,9 +32,9 @@ class Releasepage extends React.Component {
                         <h3>Stream on your preferred plarform : </h3>
                         <p>
                         <a href={release.spotifyurl}><img className='icon-release-page' src={sficon} alt='spotify icon' /></a>
-                        <a href={release.beatporturl}><img className='icon-release-page' src={bpicon} alt='beatport icon' /></a>
-                        <a href={release.soundcloudurl}><img className='icon-release-page' src={scicon} alt='soundcloud icon' /></a>
-                        <a href={release.deezerurl}><img className='icon-release-page' src={dzicon} alt='deezer icon' /></a>
+                        <a href={release.beatporturl}><img className='icon-release-page-small' src={bpicon} alt='beatport icon' /></a>
+                        <a href={release.soundcloudurl}><img className='icon-release-page-small' src={scicon} alt='soundcloud icon' /></a>
+                       {/* <a href={release.deezerurl}><img className='icon-release-page' src={dzicon} alt='deezer icon' /></a> */}
                         <a href={release.appleurl}><img className='icon-release-page' src={apicon} alt='apple icon' /></a>
                         </p>
                         </div>
@@ -49,6 +49,10 @@ class Releasepage extends React.Component {
                     <p><iframe title="scembedlink8" width="600px" height="20" scrolling="no" frameborder="no" allow="autoplay" src={release.embedurl8}></iframe></p>
                     <p><iframe title="scembedlink8" width="600px" height="20" scrolling="no" frameborder="no" allow="autoplay" src={release.embedurl9}></iframe></p>
                     <p><iframe title="scembedlink10" width="600px" height="20" scrolling="no" frameborder="no" allow="autoplay" src={release.embedurl10}></iframe></p>
+                    <p><iframe title="scembedlink7" width="600px" height="20" scrolling="no" frameborder="no" allow="autoplay" src={release.embedurl11}></iframe></p>
+                    <p><iframe title="scembedlink8" width="600px" height="20" scrolling="no" frameborder="no" allow="autoplay" src={release.embedurl12}></iframe></p>
+                    <p><iframe title="scembedlink8" width="600px" height="20" scrolling="no" frameborder="no" allow="autoplay" src={release.embedurl13}></iframe></p>
+                    <p><iframe title="scembedlink10" width="600px" height="20" scrolling="no" frameborder="no" allow="autoplay" src={release.embedurl14}></iframe></p>
 
 
                 </div>

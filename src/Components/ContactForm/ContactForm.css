@@ -1,0 +1,35 @@
+#contact-form {
+    
+    width: 30%;
+    margin: 0 auto 0 60px;
+    font-size: 1.2em;
+    padding-top : 100px;
+    
+}
+
+#name, #subject, #email, #message {
+    font-size: 1.2em;
+    padding: 5px;
+    margin: 10px 0;
+    width: 300px;
+    
+}
+
+#contact-form li {
+    list-style-type: none;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #6E1111;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 0;
+    cursor: pointer;
+    display: inline-block;
+}
+
+#gotcha {
+    display: none;
+}

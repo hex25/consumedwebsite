@@ -3,6 +3,7 @@ import React from 'react';
 import './Contact.css';
 import Navbar from '../Navbar/Navbar';
 import Footer from '../Footer/Footer';
+import MyForm from '../ContactForm/ContactForm';
 
 
 class Contact extends React.Component {
@@ -12,6 +13,7 @@ class Contact extends React.Component {
         return (
             <div>
             <Navbar />
+            <MyForm />
             <Footer />
             </div>
         )
