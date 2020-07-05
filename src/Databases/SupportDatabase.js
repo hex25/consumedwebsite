@@ -11,10 +11,10 @@ let supports = [
     },*/
     { 
         title : 'Someone Else supporting CSMD004',
-        shortInfo : 'Someone Elsei ncluding CSMD004 in his Beatport chart ',
+        shortInfo : 'Someone Else including CSMD004 in his Beatport chart ',
         releaseid : 'CSMD004',
         embedUrl : 'https://www.beatport.com/chart/id/329917',
-        coverUrl : '../../Static/SupportCovers/richieDirigenten.jpg',
+        coverUrl : '',
     },
     { 
         title : 'Steve Mulder supporting CSMD027',
