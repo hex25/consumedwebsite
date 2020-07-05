@@ -14,28 +14,28 @@ let supports = [
         shortInfo : 'Someone Else including CSMD004 in his Beatport chart ',
         releaseid : 'CSMD004',
         embedUrl : '',
-        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/4e5f576da9f1c2cf483ac58615e378bc0014ecc3/src/Static/SupportCovers/someoneElseThePlace.png?raw=true',
+        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/master/src/Static/SupportCovers/someoneElseThePlace.png?raw=true',
     },
     { 
         title : 'Steve Mulder supporting CSMD027',
         shortInfo : 'Steve Mulder including CSMD027 in his Beatport chart ',
         releaseid : 'CSMD027',
         embedUrl : '',
-        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/4e5f576da9f1c2cf483ac58615e378bc0014ecc3/src/Static/SupportCovers/MulderNebula.png?raw=true',
+        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/master/src/Static/SupportCovers/MulderNebula.png?raw=true',
     },
     { 
         title : 'Spartaque supporting CSMD027',
         shortInfo : 'Spartaque including CSMD027 in his Beatport chart',
         releaseid : 'CSMD027',
         embedUrl : '',
-        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/4e5f576da9f1c2cf483ac58615e378bc0014ecc3/src/Static/SupportCovers/SpartaqueNebula.png?raw=true',
+        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/master/src/Static/SupportCovers/SpartaqueNebula.png?raw=true',
     },
     { 
         title : 'REHMARK supporting CSMD038',
         shortInfo : 'REHMARK including CSMD038 in his Beatport chart ',
         releaseid : 'CSMD038',
         embedUrl : '',
-        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/4e5f576da9f1c2cf483ac58615e378bc0014ecc3/src/Static/SupportCovers/rehmarkTeased.png?raw=true',
+        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/master/src/Static/SupportCovers/rehmarkTeased.png?raw=true',
     },
     { 
         title : 'Veerus supports CSMD038',
@@ -77,7 +77,7 @@ let supports = [
         shortInfo : 'Mattew Jay includes in his Beatport chart CSMD055',
         releaseid : 'CSMD055',
         embedUrl : '',
-        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/4e5f576da9f1c2cf483ac58615e378bc0014ecc3/src/Static/SupportCovers/mattewJayHomesick.png?raw=true',
+        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/master/src/Static/SupportCovers/mattewJayHomesick.png?raw=true',
     },
     { 
         title : 'Giorgio Rusconi supporting CSMD101',
@@ -98,7 +98,7 @@ let supports = [
         shortInfo : 'Richie Santana charting in his beatport chart CSMD048',
         releaseid : '',
         embedUrl : '',
-        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/4e5f576da9f1c2cf483ac58615e378bc0014ecc3/src/Static/SupportCovers/santana9nemy.png?raw=true',
+        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/master/src/Static/SupportCovers/santana9nemy.png?raw=true',
         //https://www.beatport.com/chart/richie-santana-september-picks/367778
     },
     { 
@@ -106,7 +106,7 @@ let supports = [
         shortInfo : 'Dubfire playing CSMD048 on BBC One Radio',
         releaseid : 'CSMD048',
         embedUrl : '',
-        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/4e5f576da9f1c2cf483ac58615e378bc0014ecc3/src/Static/SupportCovers/dubfire9nemybbc.png?raw=true',
+        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/master/src/Static/SupportCovers/dubfire9nemybbc.png?raw=true',
         //https://www.bbc.co.uk/programmes/p035f47v
     },
     { 
