@@ -13,6 +13,10 @@
     margin-left: 35px;
 }
 
+#release-cover {
+    width: 300px;
+}
+
 .icon-release-page {
     width: 25px;
     margin: 20px 10px;

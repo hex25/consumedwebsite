@@ -27,7 +27,7 @@ class Releasepage extends React.Component {
                     <p>{release.id}</p>
                     <h2 className='section-header'>{release.artist} - {release.name}</h2>
                     <div id='release-container'>
-                        <img src={release.imageurl} alt='release cover'/>
+                        <img id='release-cover' src={release.imageurl} alt='release cover'/>
                         <div id='icons-container'>
                         <h3>Stream on your preferred plarform : </h3>
                         <p>

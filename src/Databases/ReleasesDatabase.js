@@ -1827,6 +1827,7 @@ embedurl10 : '',
     embedurl10 : '',
 }, */
 ]
+releases.sort((a, b) => (a.id < b.id) ? 1 : -1);
 
 
 export default releases;
