@@ -114,7 +114,7 @@ let supports = [
         shortInfo : 'Ron Costa includes in his beatport chart CSMD060',
         releaseid : 'CSMD060',
         embedUrl : '',
-        coverUrl : '',
+        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/master/src/Static/SupportCovers/RonCosta.png?raw=true',
         //https://www.beatport.com/release/viral-cutz/1680250
     },
     { 
