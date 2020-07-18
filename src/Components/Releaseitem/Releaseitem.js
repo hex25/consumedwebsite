@@ -29,7 +29,6 @@ class Releaseitem extends React.Component {
                 
                 </div>
                 <img className='release-cover' src={this.props.imageurl} alt='cover' />
-                
             </div>
         )
 

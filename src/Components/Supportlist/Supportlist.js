@@ -5,7 +5,7 @@ import './Supportlist.css';
 import Supportitem from '../Supportitem/Supportitem';
 import Navbar from '../Navbar/Navbar';
 import supports from '../../Databases/SupportDatabase';
-import Footer from '../Footer/Footer';
+import Footer from '../Footer/Footer'; 
 
 
 class Supportlist extends React.Component {
