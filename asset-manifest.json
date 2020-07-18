@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/consumedwebsite/static/css/main.0a96c2e1.chunk.css",
-    "main.js": "/consumedwebsite/static/js/main.800d76bf.chunk.js",
-    "main.js.map": "/consumedwebsite/static/js/main.800d76bf.chunk.js.map",
-    "runtime-main.js": "/consumedwebsite/static/js/runtime-main.c1f6d9e1.js",
-    "runtime-main.js.map": "/consumedwebsite/static/js/runtime-main.c1f6d9e1.js.map",
-    "static/js/2.a4d8ace5.chunk.js": "/consumedwebsite/static/js/2.a4d8ace5.chunk.js",
-    "static/js/2.a4d8ace5.chunk.js.map": "/consumedwebsite/static/js/2.a4d8ace5.chunk.js.map",
-    "index.html": "/consumedwebsite/index.html",
-    "precache-manifest.185723f9662a1483f858281e67720e7e.js": "/consumedwebsite/precache-manifest.185723f9662a1483f858281e67720e7e.js",
-    "service-worker.js": "/consumedwebsite/service-worker.js",
-    "static/css/main.0a96c2e1.chunk.css.map": "/consumedwebsite/static/css/main.0a96c2e1.chunk.css.map",
-    "static/js/2.a4d8ace5.chunk.js.LICENSE": "/consumedwebsite/static/js/2.a4d8ace5.chunk.js.LICENSE",
-    "static/media/cap.jpg": "/consumedwebsite/static/media/cap.0f724424.jpg",
-    "static/media/club.jpg": "/consumedwebsite/static/media/club.fa32bbe6.jpg",
-    "static/media/consumedlogowhite2.png": "/consumedwebsite/static/media/consumedlogowhite2.3d44c51c.png",
-    "static/media/hoodie.jpg": "/consumedwebsite/static/media/hoodie.065fad00.jpg",
-    "static/media/minimal.jpg": "/consumedwebsite/static/media/minimal.3decc509.jpg",
-    "static/media/t-shirt.jpg": "/consumedwebsite/static/media/t-shirt.7e3fef21.jpg",
-    "static/media/warehouse.jpg": "/consumedwebsite/static/media/warehouse.60e095f7.jpg"
+    "main.css": "/static/css/main.0a96c2e1.chunk.css",
+    "main.js": "/static/js/main.352b6065.chunk.js",
+    "main.js.map": "/static/js/main.352b6065.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3022829f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3022829f.js.map",
+    "static/js/2.a4d8ace5.chunk.js": "/static/js/2.a4d8ace5.chunk.js",
+    "static/js/2.a4d8ace5.chunk.js.map": "/static/js/2.a4d8ace5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.25d4ea36adc5769822817768d6556561.js": "/precache-manifest.25d4ea36adc5769822817768d6556561.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0a96c2e1.chunk.css.map": "/static/css/main.0a96c2e1.chunk.css.map",
+    "static/js/2.a4d8ace5.chunk.js.LICENSE": "/static/js/2.a4d8ace5.chunk.js.LICENSE",
+    "static/media/cap.jpg": "/static/media/cap.0f724424.jpg",
+    "static/media/club.jpg": "/static/media/club.fa32bbe6.jpg",
+    "static/media/consumedlogowhite2.png": "/static/media/consumedlogowhite2.3d44c51c.png",
+    "static/media/hoodie.jpg": "/static/media/hoodie.065fad00.jpg",
+    "static/media/minimal.jpg": "/static/media/minimal.3decc509.jpg",
+    "static/media/t-shirt.jpg": "/static/media/t-shirt.7e3fef21.jpg",
+    "static/media/warehouse.jpg": "/static/media/warehouse.60e095f7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c1f6d9e1.js",
+    "static/js/runtime-main.3022829f.js",
     "static/js/2.a4d8ace5.chunk.js",
     "static/css/main.0a96c2e1.chunk.css",
-    "static/js/main.800d76bf.chunk.js"
+    "static/js/main.352b6065.chunk.js"
   ]
 }
