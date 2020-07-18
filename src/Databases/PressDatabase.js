@@ -46,5 +46,7 @@ let articles = [
     },*/
 ]
 
+articles.sort((a, b) => (a.releaseid < b.releaseid) ? 1 : -1);
+
 
 export default articles;

@@ -407,7 +407,7 @@ let supports = [
     },
     
     { 
-        title : 'Sisko Electrofanatik plays CSMD108',
+        title : 'Sisko Electrofanatik playing CSMD108',
         shortInfo : 'Sisko Electrofanatik supports CSMD108 from Lolla Tek & Mikel Gil called "Ghost Protocol" (Alpha Particle Assembly) on his latest radio show for Veerus + Maxie Devine called Le Club Culture',
         releaseid : 'CSMD108',
         embedUrl : 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/539137047&color=%236e1111&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true',
@@ -428,7 +428,7 @@ let supports = [
         coverUrl : '',
     },
     {
-        title : 'Roberto Capuano plays CSMD103',
+        title : 'Roberto Capuano playing CSMD103',
         shortInfo : 'Roberto Capuano drops Alpha Particle Assembly - Planetary Nebula (Original Mix) at Cocorico in Italy',
         releaseid : 'CSMD103',
         embedUrl : 'https://www.youtube.com/embed/XT4BmF8TCS4',
