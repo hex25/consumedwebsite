@@ -17,7 +17,7 @@ class Podcastlist extends React.Component {
                 <Navbar />
 
                 <div className='podcast-list'>
-                <h2 className='section-header'>+Live recordings.</h2>
+                <h2 className='section-header'>+Podcasts.</h2>
 
                     { podcasts.map( podcast => { return (<Podcastitem embedUrl={podcast.embedUrl} />)})}
 
