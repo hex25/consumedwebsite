@@ -7,7 +7,7 @@ let supports = [
         shortInfo : '',
         releaseid : '',
         embedUrl : '',
-        coverUrl : 'https://github.com/hex25/consumedwebsite/blob/4e5f576da9f1c2cf483ac58615e378bc0014ecc3/src/Static/SupportCovers/INSERT_FILE_NAME?raw=true',
+        coverUrl : '',
     },*/
     { 
         title : 'Someone Else supporting CSMD004',
