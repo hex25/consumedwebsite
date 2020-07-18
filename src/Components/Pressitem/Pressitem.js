@@ -10,7 +10,7 @@ class Pressitem extends React.Component {
         return (
             <div className='press-item'>
                 <img className='press-cover' src={this.props.coverUrl} alt='cover'/>
-                <a href={this.props.articleUrl} className='article-title'>{this.props.title}</a>
+                <a href={this.props.articleUrl} className='article-title' target="_blank">{this.props.title}</a>
                 <Link to={'./'+ this.props.releaseid} className='release-button'>release page<span className='arrow'> >></span></Link>
                 
             </div>
