@@ -16,7 +16,6 @@ import Player from '../Player/Player';
 import Podcastitem from '../Podcastitem/Podcastitem';
 import Pressitem from '../Pressitem/Pressitem';
 import Supportitem from '../Supportitem/Supportitem';
-import Footer from '../Footer/Footer';
 
 
 class Homepage extends React.Component {
@@ -57,9 +56,7 @@ class Homepage extends React.Component {
             <div>
 
                 <Navbar />
-                <br />
-                <br />
-                <br />
+                <div id='homepage-container'>
                 <section className='container'>
                     <div className='section-header'>
                         +Latest Releases. </div>
@@ -140,7 +137,7 @@ class Homepage extends React.Component {
                 </section> */}
 
                 <Player imageUrl={this.state.imageUrl} title={this.state.title} style={this.state.style} onClick={this.closePlayer} />
-                    <Footer />
+                </div>
             </div>
         )
     }

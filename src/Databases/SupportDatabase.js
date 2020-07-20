@@ -96,7 +96,7 @@ let supports = [
     { 
         title : 'Richie Santana supports CSMD048',
         shortInfo : 'Richie Santana charts CSMD048 on Beatport ',
-        releaseid : '',
+        releaseid : 'CSMD048',
         embedUrl : '',
         coverUrl : 'https://github.com/hex25/consumedwebsite/blob/master/src/Static/SupportCovers/santana9nemy.png?raw=true',
         //https://www.beatport.com/chart/richie-santana-september-picks/367778

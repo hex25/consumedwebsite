@@ -1,0 +1,28 @@
+#navbar-links {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(80, 18, 26);
+}
+
+.link {
+    display: inline-block;
+    margin-top: 19px;
+    color: white;
+    text-decoration: none;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgb(80, 18, 26);
+}
+
+.link:hover {
+    border-bottom: 2px solid rgb(218, 217, 217);
+    cursor: pointer;
+}
+
+/*@media only screen and (max-width: 900px) {
+    #navbar-links {
+        display: block;    
+    }
+    .link {
+        display: block;
+    }
+  } */

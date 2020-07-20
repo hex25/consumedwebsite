@@ -3,7 +3,6 @@ import './Releaselist.css';
 import releases from '../../Databases/ReleasesDatabase'
 import Releaseitem from '../Releaseitem/Releaseitem'
 import Navbar from '../Navbar/Navbar';
-import Footer from '../Footer/Footer';
 //import Releasefilter from '../Releasefilter/Releasefilter';
 
 
@@ -36,7 +35,6 @@ class Releaselist extends React.Component {
             releases.map( release => { return (<Releaseitem id={release.id} imageurl={release.imageurl} beatporturl={release.beatporturl} deezerurl={release.deezerurl} spotifyurl={release.spotifyurl} appleurl={release.appleurl} soundcloudurl={release.soundcloudurl} artist={release.artist} name={release.name} />) } )}
         
             </div>
-            <Footer />
             </div>
 
         )

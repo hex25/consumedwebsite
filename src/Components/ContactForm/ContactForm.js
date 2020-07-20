@@ -18,6 +18,8 @@ export default class MyForm extends React.Component {
                 action="https://formspree.io/mlejzwbr"
                 method="POST" >
                 <div id="contact-form">
+                    <div className='section-header'>CONTACT US</div>
+
                     <div class="field">
                         <input type="text" name="name" id="name" placeholder="Name" />
                     </div>
