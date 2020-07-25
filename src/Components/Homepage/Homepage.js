@@ -85,7 +85,7 @@ class Homepage extends React.Component {
                 </section> */}
                 <section className='container'>
                     <div className='section-header'>
-                        +Live Recordings.  </div>
+                        +Fresh Podcasts.  </div>
                         <div>
                         { podcastsHighlight.map( podcast => { return (<Podcastitem embedUrl={podcast.embedUrl} />)})}
 
