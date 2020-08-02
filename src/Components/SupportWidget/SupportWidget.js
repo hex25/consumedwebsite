@@ -12,7 +12,7 @@ class SupportWidget extends React.Component {
 
             return (
 
-                <div>
+                <div id='support-widget-container'>
                     <p className='support-widget-title'>{this.props.title}</p>
                     <p className='support-widget-info'>{this.props.info}</p>
                     <img className='support-widget-cover' src={this.props.coverUrl} alt='support cover' />
@@ -25,10 +25,10 @@ class SupportWidget extends React.Component {
 
         else {
             return (
-                <div>
+                <div id='support-widget-container'>
                     <p className='support-widget-title'>{this.props.title}</p><br />
                     <p className='support-widget-info'>{this.props.info}</p>
-                    <iframe title="embedsupport" width="230" height="200" src={this.props.embedUrl} frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                    <iframe title="embedsupport" width="400" height="200" src={this.props.embedUrl} frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                     
                 </div>
             )
