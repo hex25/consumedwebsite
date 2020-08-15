@@ -3,8 +3,10 @@ import React from 'react';
 import './Releasepage.css';
 import Navbar from '../Navbar/Navbar';
 import SupportWidget from '../SupportWidget/SupportWidget';
+import PressWidget from '../PressWidget/PressWidget';
 import releases from '../../Databases/ReleasesDatabase';
 import supports from '../../Databases/SupportDatabase';
+import articles from '../../Databases/PressDatabase';
 import bpicon from '../Releaseitem/icons/bpiconlight.png';
 import scicon from '../Releaseitem/icons/sciconlight.png';
 import apicon from '../Releaseitem/icons/appleiconlight.png';
@@ -27,7 +29,12 @@ class Releasepage extends React.Component {
                 releaseSupports.push(supports[i]);
             }
         }
-        console.log(releaseSupports);
+        let releaseArticles = [];
+        for (var j = 0; j < articles.length; j++) {
+            if (articles[j].releaseid === release.id) {
+                releaseArticles.push(articles[j]);
+            }
+        }
 
         return (
             <div>
@@ -60,12 +67,14 @@ class Releasepage extends React.Component {
                     <h3>Stream on your preferred plarform : </h3>
                             <p>
                                 <a href={release.spotifyurl}><img className='icon-release-page' src={sficon} alt='spotify icon' /></a>
-                                <a href={release.beatporturl}><img className='icon-release-page-small' src={bpicon} alt='beatport icon' /></a>
+                                <a href={release.beatporturl}><img className='icon-release-page-small' src={bpicon} alt='beatport icon' /></a> 
                                 <a href={release.soundcloudurl}><img className='icon-release-page-small' src={scicon} alt='soundcloud icon' /></a>
                                 {/* <a href={release.deezerurl}><img className='icon-release-page' src={dzicon} alt='deezer icon' /></a> */}
                                 <a href={release.appleurl}><img className='icon-release-page' src={apicon} alt='apple icon' /></a>
                             </p>  
                             {releaseSupports.map( support => { return (<SupportWidget title={support.title} info={support.shortInfo} embedUrl={support.embedUrl} coverUrl={support.coverUrl} releaseid={support.releaseid} />)}
+                )}  
+                 {releaseArticles.map( article => { return (<PressWidget title={article.title} info={article.shortInfo} articleUrl={article.articleUrl} coverUrl={article.coverUrl} releaseid={article.releaseid} />)}
                 )}  
 
                 </div>

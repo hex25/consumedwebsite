@@ -1,30 +1,46 @@
 let releases = [
     /* THIS IS A TEMPLATE - PLEASE COPY PASTE FROM { TO }, (including)
-{ date : '',
-id : 'CSMD111',
-genre : '',
-artist : '',
-name : '',
-imageurl : '',
-beatporturl : '',
-spotifyurl : '',
-deezerurl : '',
-appleurl : '',
-soundcloudurl : '',
-embedurl1 : '',
-embedurl2 : '',
-embedurl3 : '',
-embedurl4 : '',
-embedurl5 : '',
-embedurl6 : '',
-embedurl7 : '',
-embedurl8 : '',
-embedurl9 : '',
-embedurl10 : '',
-}, */
+    { date : '',
+    id : 'CSMD111',
+    genre : '',
+    artist : '',
+    name : '',
+    imageurl : '',
+    beatporturl : '',
+    spotifyurl : '',
+    deezerurl : '',
+    appleurl : '',
+    soundcloudurl : '',
+    embedurl1 : '',
+    embedurl2 : '',
+    embedurl3 : '',
+    embedurl4 : '',
+    embedurl5 : '',
+    embedurl6 : '',
+    embedurl7 : '',
+    embedurl8 : '',
+    embedurl9 : '',
+    embedurl10 : '',
+    }, 
+    */
+
+ 
 
 
-    {
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
         date: '2016-09-16',
         id: 'CSMD083',
         genre: 'Raw Techno',
@@ -38,8 +54,28 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/csmd083-a-mircea-ivan',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277853506&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277852834&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-       
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     {
         date: '2016-08-15',
@@ -55,8 +91,27 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/csmd081-kostha-alex-smott-elio',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/274278760&color=%2350121a&inverse=true&auto_play=false&show_user=true"',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/274279004&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-      
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
+
 
     {
         date: '2016-08-08',
@@ -73,8 +128,23 @@ embedurl10 : '',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272634071&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272634245&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272636213&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-      
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
 
     {
         date: '2016-07-29',
@@ -93,8 +163,18 @@ embedurl10 : '',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269061378&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269061825&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269062035&color=%2350121a&inverse=true&auto_play=false&show_user=true"',
-        
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
 
 
     {
@@ -110,8 +190,30 @@ embedurl10 : '',
         appleurl: 'https://music.apple.com/us/album/exist-single/1512724782',
         soundcloudurl: 'https://soundcloud.com/consumed-music/premiere-manic-brothers-alpha-particle-assembly-exist-pierre-blanche-remix',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/832053013&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-     
+        embedurl2: '',
+        embedurl3: '',
+        embedurl4: '  ',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '17-07-2020',
         id: 'CSMD115',
@@ -127,9 +229,25 @@ embedurl10 : '',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/844168000&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/844167982&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/844168009&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-        
+        embedurl4: '  ',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
-    
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '31-05-20',
         id: 'CSMD113',
@@ -143,8 +261,32 @@ embedurl10 : '',
         appleurl: 'https://music.apple.com/us/album/metamorph-single/1508182696',
         soundcloudurl: 'https://soundcloud.com/consumed-music/alpha-particle-assembly-metamorph-original-mix-1',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/800031769&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-      
+        embedurl2: '',
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+        embedurl11: '',
+        embedurl12: '',
+        embedurl13: '',
+        embedurl14: '',
     },
+
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '31-05-20',
         id: 'CSMD112',
@@ -161,8 +303,23 @@ embedurl10 : '',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/805344340&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/805345984&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/805348198&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-   
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+        embedurl11: '',
+        embedurl12: '',
+        embedurl13: '',
+        embedurl14: '',
     },
+
+
+
+
+
+
     {
         date: '17-06-2019',
         id: 'CSMD111',
@@ -177,8 +334,28 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/manic-brothers-alpha-particle',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/629667141&color=%2350121a&inverse=true&auto_play=false&show_user=false',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/629670513&color=%2350121a&inverse=true&auto_play=false&show_user=false',
-      
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+        embedurl11: '',
+        embedurl12: '',
+        embedurl13: '',
+        embedurl14: '',
     },
+
+
+
+
+
+
+
+
+
     {
         date: '25-12-2018',
         id: 'CSMD110',
@@ -193,8 +370,28 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/alpha-particle-assembly-future',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/544995912&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/544997166&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-        
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+        embedurl11: '',
+        embedurl12: '',
+        embedurl13: '',
+        embedurl14: '',
     },
+
+
+
+
+
+
+
+
+
     {
         date: '15-11-2018',
         id: 'CSMD109',
@@ -211,8 +408,23 @@ embedurl10 : '',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/526768029&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/522769218&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/524736303&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-    
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+        embedurl11: '',
+        embedurl12: '',
+        embedurl13: '',
+        embedurl14: '',
     },
+
+
+
+
+
+
     {
         date: '28-09-2018',
         id: 'CSMD108',
@@ -227,8 +439,29 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/lolla-tek-mikel-gil-ghost',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/494132007&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/495708015&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-     
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+        embedurl11: '',
+        embedurl12: '',
+        embedurl13: '',
+        embedurl14: '',
     },
+
+
+
+
+
+
+
+
+
+
     {
         date: '13-08-2018',
         id: 'CSMD107',
@@ -243,8 +476,29 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/jeancy-particles-waves',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/476675424&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479181864&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-   
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+        embedurl11: '',
+        embedurl12: '',
+        embedurl13: '',
+        embedurl14: '',
     },
+
+
+
+
+
+
+
+
+
+
     {
         date: '18-06-2018',
         id: 'CSMD106',
@@ -262,8 +516,20 @@ embedurl10 : '',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/450401565&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/453574983&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/449439021&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-     
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
     {
         date: '11-05-2018',
         id: 'CSMD105',
@@ -279,8 +545,26 @@ embedurl10 : '',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/435492240&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/430595526&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/415180632&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-   
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '09-04-2018',
         id: 'CSMD104',
@@ -295,8 +579,29 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/lewis-delay-unafraid-of',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/424683792&color=%2350121a&inverse=true&auto_play=false&show_user=true(Consumed Music)</a></div>',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/423800505&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-       
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '05-02-2018',
         id: 'CSMD103',
@@ -320,6 +625,45 @@ embedurl10 : '',
         embedurl9: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/382732649&color=%2350121a&inverse=true&auto_play=false&show_user=false',
         embedurl10: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/382740071&color=%2350121a&inverse=true&auto_play=false&show_user=false',
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '13-11-2017',
         id: 'CSMD101',
@@ -347,6 +691,33 @@ embedurl10 : '',
         embedurl13: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/351395164&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl14: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/353960369&color=%2350121a&inverse=true&auto_play=false&show_user=true',
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '08-01-2017',
         id: 'CSMD100',
@@ -362,8 +733,25 @@ embedurl10 : '',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335489218&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335489447&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/335489822&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-       
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '03-07-2017',
         id: 'CSMD099',
@@ -378,8 +766,28 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/csmd098-a-mark-mywords-control',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331422726&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331422229&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-       
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '05-06-2017',
         id: 'CSMD098',
@@ -394,8 +802,28 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/csmd097-a-drones-awakenings',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322452891&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/322453676&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-     
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '24-04-2017',
         id: 'CSMD097',
@@ -412,9 +840,24 @@ embedurl10 : '',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/319271252&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/319271459&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/319271633&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-       
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
-    /* {
+    /* 
+
+
+
+
+
+
+
+
+
+{
          date: '03-04-2017',
          id: 'CSMD096',
          genre: '',
@@ -437,6 +880,23 @@ embedurl10 : '',
          embedurl9: '',
          embedurl10: '',
      }, */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '31-03-2017',
         id: 'CSMD095',
@@ -453,8 +913,23 @@ embedurl10 : '',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315449885&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315448773&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315450147&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-      
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
     {
         date: '20-03-2017',
         id: 'CSMD094',
@@ -473,8 +948,17 @@ embedurl10 : '',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313484786&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313486033&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl6: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/313481458&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-    
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
     {
         date: '27-02-2017',
         id: 'CSMD093',
@@ -492,8 +976,20 @@ embedurl10 : '',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309852569&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309852102&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/309851388&color=%2350121a&inverse=true&auto_play=false&show_user=true',
- 
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
     {
         date: '10-02-2017',
         id: 'CSMD092',
@@ -512,8 +1008,16 @@ embedurl10 : '',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307213834&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307213084&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl6: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/307212524&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-   
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
     {
         date: '30-01-2017',
         id: 'CSMD091',
@@ -529,8 +1033,25 @@ embedurl10 : '',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305290313&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305291452&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/305292142&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-   
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '09-01-2017',
         id: 'CSMD090',
@@ -545,8 +1066,28 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/pre-order-sisko-electrofanatik',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301724393&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301725050&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-  
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '29-12-2016',
         id: 'CSMD089',
@@ -562,8 +1103,25 @@ embedurl10 : '',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/300060949&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/300060622&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/300059677&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-  
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
     {
         date: '26-12-2016',
         id: 'CSMD088',
@@ -581,7 +1139,11 @@ embedurl10 : '',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/299637505&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/299637233&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/299636824&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-       
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
     {
         date: '21-10-2016',
@@ -622,7 +1184,12 @@ embedurl10 : '',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/289164559&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/289163898&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/289163321&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-     
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
     {
         date: '30-09-2016',
@@ -639,7 +1206,13 @@ embedurl10 : '',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277713362&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277713861&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277714175&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
     {
         date: '23-09-2016',
@@ -655,9 +1228,16 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/csmd084-lolla-tek-renegade-ep',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277712570&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/277712879&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-   
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
-    
+
     /*{
         date: '02-09-2016',
         id: 'CSMD082',
@@ -681,8 +1261,8 @@ embedurl10 : '',
         embedurl9: '',
         embedurl10: '',
     },*/
-    
-    
+
+
 
     {
         date: '20-07-2016',
@@ -697,7 +1277,15 @@ embedurl10 : '',
         appleurl: 'https://itunes.apple.com/us/album/hybrid-single/1276443127',
         soundcloudurl: 'https://soundcloud.com/consumed-music/cmsd078-a-hybrid-original-mix',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268500256&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-    
+        embedurl2: '',
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
     {
         date: '14-07-2016',
@@ -715,7 +1303,12 @@ embedurl10 : '',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272633451&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272801222&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/272633886&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-      
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
     {
         date: '11-07-2016',
@@ -725,14 +1318,20 @@ embedurl10 : '',
         name: 'Psycho',
         imageurl: 'https://geo-media.beatport.com/image_size/250x250/fb462b4c-468b-4279-82ac-1fa76bc2b8c5.jpg',
         beatporturl: 'https://www.beatport.com/release/psycho/1796374',
-        spotifyurl: '',
+        spotifyurl: 'https://open.spotify.com/album/4R665BZed1JWcBQyJnxQYM',
         deezerurl: 'https://www.deezer.com/en/album/47096092',
         appleurl: 'https://itunes.apple.com/us/album/psycho-single/1276440547',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/csmd077-ovi-m-psycho-ep-9nemy',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268424093&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/261035897&color=%2350121a&inverse=true&auto_play=false&show_user=true"',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268424855&color=%2350121a&inverse=true&auto_play=false&show_user=true"',
-        
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
     {
         date: '24-06-2016',
@@ -749,7 +1348,13 @@ embedurl10 : '',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268425085&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268425534&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/268426002&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-     
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
     {
         date: '13-06-2016',
@@ -765,7 +1370,14 @@ embedurl10 : '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/exclusive-markus-schweickart',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/267162958&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/267162104&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-       
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
     {
         date: '19-05-2016',
@@ -783,7 +1395,12 @@ embedurl10 : '',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265508290&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265508661&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/265508866&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
     },
     {
         date: '10-05-2016',
@@ -796,8 +1413,8 @@ embedurl10 : '',
         spotifyurl: '',
         deezerurl: '',
         appleurl: '',
-        soundcloudurl: '',
-        embedurl1: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/exclusive-bulaklak-loui-fernandez-elpidio-a-reconstruktion-csmd072',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/262660998&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: '',
         embedurl3: '',
         embedurl4: '',
@@ -820,9 +1437,9 @@ embedurl10 : '',
         deezerurl: 'https://www.deezer.com/en/album/47091482',
         appleurl: 'https://itunes.apple.com/us/album/finder-single/1276437509',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/exclusive-j-s-project-richard',
-        embedurl1: '',
-        embedurl2: '',
-        embedurl3: '',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260687474&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260688100&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260689693&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: '',
         embedurl5: '',
         embedurl6: '',
@@ -843,9 +1460,9 @@ embedurl10 : '',
         deezerurl: 'https://www.deezer.com/en/album/47089622',
         appleurl: 'https://itunes.apple.com/us/album/evolet-single/1276436557',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/the-extraverse-evolet-csmd065',
-        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260687474&color=%2350121a&inverse=true&auto_play=false&show_user=true',
-        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260688100&color=%2350121a&inverse=true&auto_play=false&show_user=true"',
-        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260689693&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/247519170&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/247520178&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/247527086&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: '',
         embedurl5: '',
         embedurl6: '',
@@ -862,10 +1479,10 @@ embedurl10 : '',
         name: 'Groove Street',
         imageurl: 'https://geo-media.beatport.com/image_size/250x250/2064c053-d0ca-4d56-9b5b-2623b17f963a.jpg',
         beatporturl: 'https://www.beatport.com/release/groove-street/1730626',
-        spotifyurl: '',
+        spotifyurl: 'https://open.spotify.com/album/5Qptvh7QEBFSQ2hKqDrTse',
         deezerurl: '',
-        appleurl: '',
-        soundcloudurl: '',
+        appleurl: 'https://music.apple.com/us/album/groove-street-single/1276437091',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/daniele-donati-groove-street',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/258456665&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/258457178&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/258457564&color=%2350121a&inverse=true&auto_play=false&show_user=true',
@@ -912,8 +1529,8 @@ embedurl10 : '',
         deezerurl: 'https://www.deezer.com/en/album/47088682',
         appleurl: 'https://itunes.apple.com/za/album/transpire-single/1276435219?ign-mpt=uo%3D4',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/fractious-transpire-csmd068',
-        embedurl1: '',
-        embedurl2: '',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/251015346&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/251015563&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: '',
         embedurl4: '',
         embedurl5: '',
@@ -981,9 +1598,9 @@ embedurl10 : '',
         deezerurl: '',
         appleurl: '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/junkiedkids-i-dont-care',
-        embedurl1: '',
-        embedurl2: '',
-        embedurl3: '',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246889251&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246889537&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246889930&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: '',
         embedurl5: '',
         embedurl6: '',
@@ -1000,16 +1617,16 @@ embedurl10 : '',
         name: 'Final Sequence',
         imageurl: 'https://geo-media.beatport.com/image_size/250x250/2c015dcd-2869-4114-912f-70cfba2dc49d.jpg',
         beatporturl: 'https://www.beatport.com/release/final-sequence/1693255',
-        spotifyurl: '',
+        spotifyurl: 'https://open.spotify.com/album/4XjvFt8oXo69YB5kMyfpMm',
         deezerurl: '',
-        appleurl: '',
+        appleurl: 'https://music.apple.com/us/album/final-sequence/1276433002',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/nonyas-final-sequence-csmd063',
-        embedurl1: '',
-        embedurl2: '',
-        embedurl3: '',
-        embedurl4: '',
-        embedurl5: '',
-        embedurl6: '',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245280365&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245282348&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245285494&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245284925&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245283403&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl6: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/245282691&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl7: '',
         embedurl8: '',
         embedurl9: '',
@@ -1023,14 +1640,14 @@ embedurl10 : '',
         name: 'Let It Go',
         imageurl: 'https://geo-media.beatport.com/image_size/250x250/b4686f6d-e98b-4fe3-82ef-9c09e45fa5db.jpg',
         beatporturl: 'https://www.beatport.com/release/let-it-go/1687351',
-        spotifyurl: '',
+        spotifyurl: 'https://open.spotify.com/album/5Qk3siahYmbUQprDsPEdwS?highlight=spotify:track:0Ye6ZvQnFJM0wqN2pwjyps',
         deezerurl: '',
-        appleurl: '',
+        appleurl: 'https://music.apple.com/us/album/let-it-go-ep/1276431921',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/bulaklak-loui-fernandez-let-it',
-        embedurl1: '',
-        embedurl2: '',
-        embedurl3: '',
-        embedurl4: '',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242914216&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242916692&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242915698&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/242916519&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl5: '',
         embedurl6: '',
         embedurl7: '',
@@ -1049,9 +1666,9 @@ embedurl10 : '',
         spotifyurl: '',
         deezerurl: '',
         appleurl: '',
-        soundcloudurl: '',
-        embedurl1: '',
-        embedurl2: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/hassio-col-romances-oil',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241918843&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241918457&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: '',
         embedurl4: '',
         embedurl5: '',
@@ -1073,12 +1690,12 @@ embedurl10 : '',
         deezerurl: '',
         appleurl: '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/viral-cutz-va-csmd060',
-        embedurl1: '',
-        embedurl2: '',
-        embedurl3: '',
-        embedurl4: '',
-        embedurl5: '',
-        embedurl6: '',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240650347&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240088602&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/241042421&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240650886&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240650739&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl6: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/240651282&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl7: '',
         embedurl8: '',
         embedurl9: '',
@@ -1096,11 +1713,11 @@ embedurl10 : '',
         deezerurl: '',
         appleurl: '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/ovi-m-dilemma-csmd059',
-        embedurl1: '',
-        embedurl2: '',
-        embedurl3: '',
-        embedurl4: '',
-        embedurl5: '',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239066330&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239066895&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239066442&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239066614&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/239066713&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl6: '',
         embedurl7: '',
         embedurl8: '',
@@ -1119,10 +1736,10 @@ embedurl10 : '',
         deezerurl: '',
         appleurl: '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/unique-cro-disappear-csmd058',
-        embedurl1: '',
-        embedurl2: '',
-        embedurl3: '',
-        embedurl4: '',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237519724&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237520314&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237521152&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/237522510&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl5: '',
         embedurl6: '',
         embedurl7: '',
@@ -1165,10 +1782,10 @@ embedurl10 : '',
         deezerurl: '',
         appleurl: '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/mircea-ivan-kode-csmd056',
-        embedurl1: '',
-        embedurl2: '',
-        embedurl3: '',
-        embedurl4: '',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232337233&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232339024&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232341605&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/232338265&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl5: '',
         embedurl6: '',
         embedurl7: '',
@@ -1209,7 +1826,7 @@ embedurl10 : '',
         beatporturl: 'https://www.beatport.com/release/you-dont-know-but/1625121',
         spotifyurl: 'https://open.spotify.com/album/7Ki5015SjbI5Lx5q8HogXF',
         deezerurl: '',
-        appleurl: '',
+        appleurl: 'https://music.apple.com/us/album/you-dont-know-but-ep/1276429970',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/premier-felix-krocher-you-dont',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228030423&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228030634&color=%2350121a&inverse=true&auto_play=false&show_user=true',
@@ -1230,8 +1847,8 @@ embedurl10 : '',
         name: 'Continuum',
         imageurl: 'https://geo-media.beatport.com/image_size/250x250/d282ee55-ba9b-4da5-ba92-282ac3c4713c.jpg',
         beatporturl: 'https://www.beatport.com/release/continuum/1616598',
-        spotifyurl: '',
-        deezerurl: '',
+        spotifyurl: 'https://open.spotify.com/album/1rXyRNTjV5YgON1CsLRJhP?highlight=spotify:track:5Zxh3eF1p32PLUdjcV2vot',
+        deezerurl: 'https://music.apple.com/gb/album/continuum-single/1276428734',
         appleurl: '',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/exclusive-mark-mywords-daniel',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/227054320&color=%2350121a&inverse=true&auto_play=false&show_user=true',
@@ -1276,12 +1893,12 @@ embedurl10 : '',
         name: 'First Place',
         imageurl: 'https://geo-media.beatport.com/image_size/250x250/8ca82826-624f-4a96-8827-237e9cbd37b7.jpg',
         beatporturl: 'https://www.beatport.com/release/first-place/1596483',
-        spotifyurl: '',
+        spotifyurl: 'https://open.spotify.com/album/0dNd4mQ8AXk9Bdz0N5NeRM',
         deezerurl: '',
-        appleurl: '',
-        soundcloudurl: '',
-        embedurl1: '',
-        embedurl2: '',
+        appleurl: 'https://music.apple.com/us/album/first-place-single/1276427704',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/kostha-first-place-csmd051',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/225998999&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/225999836&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: '',
         embedurl4: '',
         embedurl5: '',
@@ -1302,11 +1919,11 @@ embedurl10 : '',
         spotifyurl: '',
         deezerurl: '',
         appleurl: '',
-        soundcloudurl: '',
-        embedurl1: '',
-        embedurl2: '',
-        embedurl3: '',
-        embedurl4: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/david-garez-martin-lacroix',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224941537&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224942072&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224943207&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/224943452&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl5: '',
         embedurl6: '',
         embedurl7: '',
@@ -1322,9 +1939,9 @@ embedurl10 : '',
         name: 'Megalomaniac',
         imageurl: 'https://geo-media.beatport.com/image_size/250x250/fc48cef8-265d-488e-907c-9d70f2ba2b76.jpg',
         beatporturl: 'https://www.beatport.com/release/megalomaniac/1596670',
-        spotifyurl: '',
+        spotifyurl: 'https://open.spotify.com/album/0DuSzq31mgYqsjB8TDrQlH',
         deezerurl: '',
-        appleurl: '',
+        appleurl: 'https://music.apple.com/us/album/megalomaniac-single/1276427789',
         soundcloudurl: 'https://soundcloud.com/consumed-music/sets/lolla-tek-megalomaniac-csmd049',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221489273&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221489654&color=%2350121a&inverse=true&auto_play=false&show_user=true',
@@ -1345,10 +1962,10 @@ embedurl10 : '',
         name: '9nemy',
         imageurl: 'https://geo-media.beatport.com/image_size/250x250/1d575e23-0e30-405d-a992-712e85c68efd.jpg',
         beatporturl: 'https://www.beatport.com/release/9nemy/1592821',
-        spotifyurl: '',
+        spotifyurl: 'https://open.spotify.com/album/5jUiNH5pBsWhh1k97GGlj7',
         deezerurl: '',
-        appleurl: '',
-        soundcloudurl: '',
+        appleurl: 'https://music.apple.com/us/album/9nemy-ep/1276427422',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/a-lolla-tek-9nemy-csmd048',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221476130&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221476263&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221476362&color=%2350121a&inverse=true&auto_play=false&show_user=true',
@@ -1368,13 +1985,13 @@ embedurl10 : '',
         name: 'En Noir',
         imageurl: 'https://geo-media.beatport.com/image_size/250x250/ed1b3e9a-8bb8-42a1-aaa9-e2b21a80818d.jpg',
         beatporturl: 'https://www.beatport.com/release/en-noir/1579911',
-        spotifyurl: '',
+        spotifyurl: 'https://open.spotify.com/album/6sBMlWDKOBptv4grsp1ogl',
         deezerurl: '',
         appleurl: '',
-        soundcloudurl: '',
-        embedurl1: '',
-        embedurl2: '',
-        embedurl3: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/alex-poxada-en-noir-csmd047',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/219688483&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/219690070&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/219690684&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl4: '',
         embedurl5: '',
         embedurl6: '',
@@ -1437,10 +2054,10 @@ embedurl10 : '',
         name: 'Odd Signals',
         imageurl: 'https://geo-media.beatport.com/image_size/250x250/9bfe7eba-83dd-4962-9264-2610806f5030.jpg',
         beatporturl: 'https://www.beatport.com/release/odd-signals/1566253',
-        spotifyurl: '',
+        spotifyurl: 'https://open.spotify.com/album/1rmjRAgxuoPzbR0fRNlwqL',
         deezerurl: '',
-        appleurl: '',
-        soundcloudurl: '',
+        appleurl: 'https://music.apple.com/us/album/odd-signals/1276426451?i=1276426452',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/a-lolla-tek-odd-signals',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216137183&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216137813&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216137951&color=%2350121a&inverse=true&auto_play=false&show_user=true',
@@ -1463,7 +2080,7 @@ embedurl10 : '',
         spotifyurl: '',
         deezerurl: '',
         appleurl: '',
-        soundcloudurl: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/tom-novy-amadeas-dancing-in',
         embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/214586200&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/214586747&color=%2350121a&inverse=true&auto_play=false&show_user=true',
         embedurl3: '',
@@ -1613,6 +2230,449 @@ embedurl10 : '',
         embedurl9: '',
         embedurl10: '',
     },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        date: '2020-08-03',
+        id: 'CSMD116',
+        genre: 'Raw Techno',
+        artist: 'Black Copy Catz',
+        name: 'Tabula Rasa',
+        imageurl: 'https://geo-media.beatport.com/image/fa8ee8e6-101c-4ba4-936e-d0558e3b159e.jpg',
+        beatporturl: 'https://www.beatport.com/release/tabula-rasa/3053484',
+        spotifyurl: 'https://open.spotify.com/album/4qttA9jqs1d1wQqcEA3QaB',
+        deezerurl: '',
+        appleurl: 'https://music.apple.com/ca/album/tabula-rasa-single/1523229634',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/black-copy-catz-tabula-rasa-1',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868374451&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868375621&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        date: '2014 - 10 - 12',
+        id: 'CSMD021',
+        genre: 'Micro House',
+        artist: 'ImAman, _mAd,',
+        name: 'Walter',
+        imageurl: 'https://geo-media.beatport.com/image/27d3a8db-c376-4937-8a7f-7565e21031d8.jpg',
+        beatporturl: 'https://www.beatport.com/release/walter/1383167',
+        spotifyurl: 'https://open.spotify.com/album/3U7ylKulgt7baqGTfjRZYI?highlight=spotify:track:4ypKcQWCNifif1Udr2Yl2d',
+        deezerurl: '',
+        appleurl: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/maman-mad-walter-csmd021',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873930805&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873931867&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873931183&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        date: '2014-11-08',
+        id: 'CSMD023',
+        genre: 'Deep Tech',
+        artist: 'Juan Archila ',
+        name: 'Fucked Up',
+        imageurl: 'https://geo-media.beatport.com/image/f6b2ec32-77a7-4725-9747-a93a55752e16.jpg',
+        beatporturl: 'https://www.beatport.com/release/fucked-up/1399865',
+        spotifyurl: '',
+        deezerurl: '',
+        appleurl: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/juan-archila-fucked-up-1',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872297911&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872299678&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        date: '2015-01-10',
+        id: 'CSMD027',
+        genre: 'Techno',
+        artist: 'A++, Nonyas',
+        name: 'Nebula',
+        imageurl: 'https://geo-media.beatport.com/image/83749456-857e-45cb-998d-5bd8d36efdf7.jpg',
+        beatporturl: 'https://www.beatport.com/release/nebula/1439915',
+        spotifyurl: 'https://open.spotify.com/album/5aHW4xGQkMLiHrRkCX3wCe?highlight=spotify:track:4q5Y1nlgpqzlOYLYriHCeD',
+        deezerurl: '',
+        appleurl: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/a-nonyas-nebula-csmd027',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873933361&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873935434&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873936853&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873934204&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873933772&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl6: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873938257&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl7: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873939076&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl8: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/873937387&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl9: '',
+        embedurl10: '',
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        date: '2013-08-18',
+        id: 'CSMD002',
+        genre: 'Techno',
+        artist: 'Noevol',
+        name: 'The Hammer & Anvil',
+        imageurl: 'https://geo-media.beatport.com/image/a980ec86-9a98-481e-a351-2d55dd394843.jpg',
+        beatporturl: 'https://www.beatport.com/release/the-hammer-and-anvil-ep/1135802',
+        spotifyurl: 'https://open.spotify.com/album/6RtedJ1J5Qfs96hO0QyPEl',
+        deezerurl: '',
+        appleurl: 'https://music.apple.com/us/album/the-hammer-anvil-ep/1263754881',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/noevol-the-hammer-anvil',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872295988&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872296660&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        date: '2013-11-25',
+        id: 'CSMD006',
+        genre: 'Micro House',
+        artist: 'Caractere',
+        name: 'Mindfuck',
+        imageurl: 'https://geo-media.beatport.com/image/043d2601-be02-43fc-bdb7-8cecd36be7cd.jpg',
+        beatporturl: 'https://www.beatport.com/release/mindfuck/1199067',
+        spotifyurl: 'https://open.spotify.com/album/4VA2qHLXiyjh8GsrSet3Cw',
+        deezerurl: '',
+        appleurl: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/caractere-mindfuck-csmd006-1',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872283823&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872284555&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872283451&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872284828&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        date: '2014-11-22',
+        id: 'CSMD024',
+        genre: 'Techno',
+        artist: 'Marco.B',
+        name: 'Mentos',
+        imageurl: 'https://geo-media.beatport.com/image/ebccd698-1965-4cc2-b0ed-5a1d720b191d.jpg',
+        beatporturl: 'https://www.beatport.com/release/mentos/1408180',
+        spotifyurl: '',
+        deezerurl: '',
+        appleurl: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/marco-b-mentos-csmd024',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872280106&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/872279731&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        date: '',
+        id: 'CSMD019',
+        genre: 'Techno',
+        artist: 'Dani Navarro',
+        name: 'In A Minute',
+        imageurl: 'https://geo-media.beatport.com/image/706cc710-bb75-4194-b3b8-1fc56b0e2d4e.jpg',
+        beatporturl: 'https://www.beatport.com/release/in-a-minute/1363864',
+        spotifyurl: '',
+        deezerurl: '',
+        appleurl: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/dani-navarro-in-a-minute-ep',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868521763&color=%2350121a&inverse=true&auto_play=false&show_user=true>',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868522876&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: '',
+        embedurl4: '',
+        embedurl5: '',
+        embedurl6: '',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        date: '2015-03-08',
+        id: 'CSMD031',
+        genre: 'Techno, Tech House',
+        artist: 'A++, Nonyas',
+        name: 'Vilify',
+        imageurl: 'http://geo-media.beatport.com/image_size/212x212/7da30f51-4cfd-47c2-9d49-52c1c4ea0a7f.jpg',
+        beatporturl: 'http://classic.beatport.com/release/vilify/1471149',
+        spotifyurl: '',
+        deezerurl: '',
+        appleurl: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/a-nonyas-vilify-csmd031',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868514338&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868515754&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868516663&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868517920&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868518622&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl6: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868519228&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        date: '',
+        id: 'CSMD028',
+        genre: 'Techno, Techno Minimal',
+        artist: 'Siles,Aboga',
+        name: 'Dutch Boy',
+        imageurl: 'https://geo-media.beatport.com/image/12dfd4bb-c588-4e60-bfe4-b923bc04fb35.jpg',
+        beatporturl: 'https://www.beatport.com/release/dutch-boy/1455286',
+        spotifyurl: 'https://open.spotify.com/album/7vD6Fu3vg9JR9FzpwDWoQA?highlight=spotify:track:5hXJZayLx8uQTXYIWvycZS',
+        deezerurl: '',
+        appleurl: '',
+        soundcloudurl: 'https://soundcloud.com/consumed-music/sets/siles-aboga-dutch-boy-ep',
+        embedurl1: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868508527&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl2: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868509649&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl3: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868508920&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl4: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868510297&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl5: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868512592&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl6: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868513567&color=%2350121a&inverse=true&auto_play=false&show_user=true',
+        embedurl7: '',
+        embedurl8: '',
+        embedurl9: '',
+        embedurl10: '',
+    },
+   
+
+
 
 
     /*

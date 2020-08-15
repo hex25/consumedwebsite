@@ -88,12 +88,17 @@ let podcasts = [
         date: '20150000',
         embedUrl: 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/864439492&color=%2350121a&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_teaser=false&visual=true',
     },
-   
+    {
+        date : '20150000',
+        embedUrl : 'https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868574419&color=%2350121a&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_teaser=false&visual=true',
+    },
+
 
 
 
     /* THIS IS A TEMPLATE - PLEASE COPY PASTE FROM { TO }, 
     {
+        date : '',
         embedUrl : '',
     },*/
 ]
