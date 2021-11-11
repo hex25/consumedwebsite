@@ -1,7 +1,8 @@
 #navbar-links {
     display: flex;
     justify-content: space-around;
-    background-color: rgb(80, 18, 26);
+    background-color: rgb(173, 11, 33);
+
 }
 
 .link {
@@ -10,7 +11,7 @@
     color: white;
     text-decoration: none;
     padding-bottom: 10px;
-    border-bottom: 2px solid rgb(80, 18, 26);
+    border-bottom: 2px solid rgb(173, 11, 33);
 }
 
 .link:hover {

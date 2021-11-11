@@ -59,7 +59,7 @@ class Homepage extends React.Component {
                 <div id='homepage-container'>
                 <section className='container'>
                     <div className='section-header'>
-                        +Latest Releases. </div>
+                        Latest Releases </div>
 
                      <div>
                             {releasesHighlight.map(release => { return (<Releaseitem id={release.id} imageurl={release.imageurl} beatporturl={release.beatporturl} deezerurl={release.deezerurl} spotifyurl={release.spotifyurl} appleurl={release.appleurl} soundcloudurl={release.soundcloudurl} artist={release.artist} name={release.name} />) })}
@@ -70,7 +70,7 @@ class Homepage extends React.Component {
                 </section>
                 {/* <section className='container'>
                <div className='section-header'>
-                        +Fresh Soundpacks. </div>
+                        Fresh Soundpacks </div>
                         <div>
                         {
                         packsHighlight.map(pack => {
@@ -85,7 +85,7 @@ class Homepage extends React.Component {
                 </section> */}
                 <section className='container'>
                     <div className='section-header'>
-                        +Fresh Podcasts.  </div>
+                        Fresh Podcasts  </div>
                         <div>
                         { podcastsHighlight.map( podcast => { return (<Podcastitem embedUrl={podcast.embedUrl} />)})}
 
@@ -97,7 +97,7 @@ class Homepage extends React.Component {
                 </section>
                 <section className='container'>
                     <div className='section-header'>
-                        +Latest Articles. </div>
+                        Latest Articles </div>
                         <div>
                         { articlesHighlight.map( article => { return(<Pressitem title={article.title} coverUrl={article.coverUrl} articleUrl={article.articleUrl} releaseid={article.releaseid} />)})}
 
@@ -109,7 +109,7 @@ class Homepage extends React.Component {
                 </section>
                 <section className='container'>
                     <div className='section-header'>
-                        +Recent Support. </div>
+                        Recent Support </div>
                         <div>
                         {supportsHighlight.map( support => { return (<Supportitem title={support.title} embedUrl={support.embedUrl} coverUrl={support.coverUrl} releaseid={support.releaseid}/>)}
                 )}  

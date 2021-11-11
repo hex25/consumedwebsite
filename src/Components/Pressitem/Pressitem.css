@@ -2,7 +2,7 @@
 
 .press-item {
 
-    background-color: rgb(70, 58, 58);
+    background-color: rgba(88, 88, 88,0.8);
     display: inline-block;
     margin: 10px;
     width: 260px;
@@ -19,7 +19,7 @@
 }
 
 .release-button {
-    background-color:  rgb(80, 18, 26);
+    background-color:  rgb(0, 0, 0);
     padding: 8px;
     text-decoration: none;
     color: white;

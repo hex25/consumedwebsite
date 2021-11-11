@@ -1,9 +1,10 @@
 #navbar {
-    background-color: rgb(51, 10, 16);
+    background-color: rgb(0, 0, 0);
     width: 100vw;
+    font-family: Kusanagi;
     position: fixed;
     z-index: 3;
-    border-bottom: 2px solid rgb(51, 10, 16);
+    border-bottom: 2px solid rgb(110, 13, 26);
     text-align: center;
 }
 

@@ -1,11 +1,10 @@
 .support-item {
-    background-color: rgb(70, 58, 58);
+    background-color: rgba(88, 88, 88,0.8);
     display: inline-block;
     padding-top: 7px;
     margin: 10px;
     width: 250px;
     height: 360px;
-    border: solid 2px rgb(53, 53, 53);
     border-radius: 5px;
     vertical-align : top;
 }
