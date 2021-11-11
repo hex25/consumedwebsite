@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04505d3a.chunk.css",
+    "main.js": "/static/js/main.6b57477c.chunk.js",
+    "main.js.map": "/static/js/main.6b57477c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3022829f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3022829f.js.map",
+    "static/js/2.3e145b36.chunk.js": "/static/js/2.3e145b36.chunk.js",
+    "static/js/2.3e145b36.chunk.js.map": "/static/js/2.3e145b36.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.aa1e7903abf1aff929ed4f939bdb4b47.js": "/precache-manifest.aa1e7903abf1aff929ed4f939bdb4b47.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.04505d3a.chunk.css.map": "/static/css/main.04505d3a.chunk.css.map",
+    "static/js/2.3e145b36.chunk.js.LICENSE": "/static/js/2.3e145b36.chunk.js.LICENSE",
+    "static/media/Homepage.css": "/static/media/Kusanagi.c800c1f1.woff",
+    "static/media/index.css": "/static/media/backgroundblack.c2fa98ad.jpeg",
+    "static/media/cap.jpg": "/static/media/cap.0f724424.jpg",
+    "static/media/club.jpg": "/static/media/club.fa32bbe6.jpg",
+    "static/media/hoodie.jpg": "/static/media/hoodie.065fad00.jpg",
+    "static/media/minimal.jpg": "/static/media/minimal.3decc509.jpg",
+    "static/media/t-shirt.jpg": "/static/media/t-shirt.7e3fef21.jpg",
+    "static/media/warehouse.jpg": "/static/media/warehouse.60e095f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3022829f.js",
+    "static/js/2.3e145b36.chunk.js",
+    "static/css/main.04505d3a.chunk.css",
+    "static/js/main.6b57477c.chunk.js"
+  ]
+}
